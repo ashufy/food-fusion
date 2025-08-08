@@ -1,5 +1,5 @@
-# food-fusion
+# food-fusion-app
 An application to find delicious food recipes based on the ingredients entered by the user.
 
-# Run the application:
+# run the application:
 python3 main.py [Linux]
